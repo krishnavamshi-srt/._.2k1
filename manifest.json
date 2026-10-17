@@ -1,0 +1,31 @@
+{
+  "name": "Sri Krishna Panchang Calendar",
+  "short_name": "Panchang",
+  "description": "Panchang, Vedic time, Kundali, Ashta Kuta match making and Rashifal in English and Telugu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#d4822a",
+  "theme_color": "#b02a16",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
